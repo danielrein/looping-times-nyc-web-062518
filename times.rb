@@ -4,7 +4,3 @@ def using_times(value)
   end
 	#your code here
 end
-
-
-
-
