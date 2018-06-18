@@ -1,4 +1,4 @@
-def using_times(value)
+def using_times(value = 'Wingardium Leviosa')
   7.times do
     puts value
   end
